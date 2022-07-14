@@ -1,2 +1,7 @@
 # Campus-Website
-This is source code for university website development using CodeIgniter. You can use this code for customisation of your university website development.
+Tools:
+MVC model by using Codeigniter, PHP Eclipse, Adobe Dreamweaver, Adobe Photoshop.
+Details:
+Sites developed to enhance and accommodate university. Live Data Retrieval & Presentation from various data sources. Web Site Management & Development including User Login, Session Management 
+and Complete Site Content Management. Sending Promotion Emails, News Letters.
+
